@@ -24,6 +24,7 @@ Ecommerce especializado en moda para el mercado peruano.
 ## Estructura del proyecto
 
 tienda-ropa-peru/
+
 ├── frontend/ # Aplicación Next.js
 
 ├── backend/ # API con Express.js
